@@ -1,16 +1,16 @@
 {
     "projects": [
         {
-            "name": "hello world",
+            "name": "Clean hacked WordPress website",
             "tasks": [
                 {
-                    "name": "d"
+                    "name": "Upload new WordPress files"
                 },
                 {
-                    "name": "task 2"
+                    "name": "Update plugins and themes"
                 },
                 {
-                    "name": "a"
+                    "name": "Install Wordfence and perform an antivirus scan"
                 }
             ]
         }
